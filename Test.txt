@@ -1,1 +1,2 @@
 GUI Remote Test
+Shit!This sourceTree version's remote commit with SSH should change the options to "OpenSSH"!  Oh !  Waisting time!
